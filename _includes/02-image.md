@@ -1,1 +1,1 @@
-add a random image from internet 
+https://octodex.github.com/images/yaktocat.png
